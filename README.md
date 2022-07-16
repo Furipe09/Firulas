@@ -7,12 +7,13 @@ With inbuilt themes, you can customize the look of the card without doing any ma
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uripe09&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furipe09&theme=dark&show_icons=true)
 ```
 
 ## Stats
 
 > These themes work both for the Stats Card and Repo Card.
+
 | | | |
 | :--: | :--: | :--: |
 | `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
@@ -39,6 +40,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 ## Repo Card
 
 > These themes work both for the Stats Card and Repo Card.
+
 | | | |
 | :--: | :--: | :--: |
 | `default_repocard` ![default_repocard][default_repocard_repo] | `dark` ![dark][dark_repo] | `radical` ![radical][radical_repo] |
